@@ -1,4 +1,4 @@
-# 
+# 专业 FL Studio 插件 Mac OS版 | 原生 FL Studio 插件 PC Windows版。集成 矢量绘画 和 录制，跨平台性能最大化。
 
 
 
